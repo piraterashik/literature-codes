@@ -12,8 +12,9 @@ The comparative analysis of Rowling’s works used surprisingly simple technique
 
 Perhaps the most common application of this kind of feature-based text classification is spam detection and filtering.
 
-## Features coded to analyze and compare the statistics of models of text
-###-word frequencies
-###-word-length frequencies
-###-stem frequencies
-###-frequencies of different sentence lengths
+Features coded to analyze and compare the statistics of models of text:
+
+-word frequencies
+-word-length frequencies
+-stem frequencies
+-frequencies of different sentence lengths
