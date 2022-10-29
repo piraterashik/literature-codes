@@ -17,3 +17,13 @@ Perhaps the most common application of this kind of feature-based text classific
 -word-length frequencies
 -stem frequencies
 -frequencies of different sentence lengths
+
+To allow you to compare and classify texts, you will create a statistical model of a body of text using several different techniques. At a minimum, you should integrate five features:
+
+word frequencies
+
+word-length frequencies
+
+stem frequencies
+
+frequencies of different sentence lengths
